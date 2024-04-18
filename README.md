@@ -8,3 +8,5 @@ I have started 100 days challange on spatial analysis using deep learning
    
 2. Day2- One complete classification project using secqential model (Model creation, optimization, training, evaluation, and making prediction)
   Familier with input layer, Flatten, dense layer, pandas dataframe, sparse_categorical_crossentropy loss function, stochastic gradient descent and adam optimizer, pyplot library
+
+3. Day3- Prepare, train and evaluate Multi layer perceptron . It is alomost same as classification except loss function is mean squared error, output is only one neuron and there is no any activation function in output layer
