@@ -10,3 +10,4 @@ I have started 100 days challange on spatial analysis using deep learning
   Familier with input layer, Flatten, dense layer, pandas dataframe, sparse_categorical_crossentropy loss function, stochastic gradient descent and adam optimizer, pyplot library
 
 3. Day3- Prepare, train and evaluate Multi layer perceptron . It is alomost same as classification except loss function is mean squared error, output is only one neuron and there is no any activation function in output layer
+4. Day4- Today i learn how to create flowchart using python and by applying this concept i try to understand how complex multi layer perceptron works
