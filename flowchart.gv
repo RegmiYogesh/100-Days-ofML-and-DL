@@ -1,0 +1,9 @@
+digraph Flowchart {
+	A [label=Start]
+	B [label="Step 1"]
+	C [label="Step 2"]
+	D [label=End]
+	A -> B
+	A -> C
+	C -> D
+}
