@@ -11,4 +11,5 @@ I have started 100 days challange on spatial analysis using deep learning
 
 3. Day3- Prepare, train and evaluate Multi layer perceptron . It is alomost same as classification except loss function is mean squared error, output is only one neuron and there is no any activation function in output layer
 4. Day4- Today i learn how to create flowchart using python and by applying this concept i try to understand how complex multi layer perceptron works
-   Wide and deep is a type of complex multi layer perceptron where the input layer goes through both dee way as well as wide way . So, if there is simple pattern available in input datasets it directly feed to output layer 
+   Wide and deep is a type of complex multi layer perceptron where the input layer goes through both dee way as well as wide way . So, if there is simple pattern available in input datasets it directly feed to output layer
+5. Day5 - Today I have completed how partial input works in deep and wide neural network
