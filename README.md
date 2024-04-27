@@ -13,3 +13,5 @@ I have started 100 days challange on spatial analysis using deep learning
 4. Day4- Today i learn how to create flowchart using python and by applying this concept i try to understand how complex multi layer perceptron works
    Wide and deep is a type of complex multi layer perceptron where the input layer goes through both dee way as well as wide way . So, if there is simple pattern available in input datasets it directly feed to output layer
 5. Day5 - Today I have completed how partial input works in deep and wide neural network
+6. Day6- Today I learn how to generaate multiple output because some task need both regression and classification at same time
+   Multiple outputs in neural networks serve several purposes: they can address tasks like object localization and classification simultaneously, handle multiple independent tasks with improved efficiency by leveraging shared data features, and function as a method    of regularization to prevent overfitting and enhance the network's generalization capabilities.
