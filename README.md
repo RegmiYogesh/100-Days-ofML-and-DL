@@ -15,3 +15,5 @@ I have started 100 days challange on spatial analysis using deep learning
 5. Day5 - Today I have completed how partial input works in deep and wide neural network
 6. Day6- Today I learn how to generaate multiple output because some task need both regression and classification at same time
    Multiple outputs in neural networks serve several purposes: they can address tasks like object localization and classification simultaneously, handle multiple independent tasks with improved efficiency by leveraging shared data features, and function as a method    of regularization to prevent overfitting and enhance the network's generalization capabilities.
+Day 7 - I have created a dynamic model where we can define how to dynamically connect each and every layer of deep neural network
+Day 8 - Today i learn how to save the modele and well as how to restore previously defined module
